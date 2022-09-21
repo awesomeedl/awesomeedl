@@ -1,5 +1,9 @@
 ### Hi there 👋
+
 ### >>> [My Blog](https://awesomeedl.github.io) <<<
+***
+Latest project I worked on:
+[Touching Function](https://sites.uw.edu/crcs/projects/2022touching-and-playing-with-functions/)
 
 <!--
 **awesomeedl/awesomeedl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
