@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-### >>> [My Blog](https://awesomeedl.github.io) <<<
+<h3 align="center">
+>>> <a href='https://awesomeedl.github.io'>My Blog</a> <<<
+</h3>
+
 ***
 Latest project I worked on:
 [Touching Function](https://sites.uw.edu/crcs/projects/2022touching-and-playing-with-functions/)
