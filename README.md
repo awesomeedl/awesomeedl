@@ -5,6 +5,16 @@
 </h3>
 
 ***
+
+- 🔭 I’m currently working on ...
+  - CI/CD w/ GitHub Actions
+  - My blog site
+- 🌱 I’m currently learning ...
+  - Blazor
+  - Azure Functions
+  - Azure Static Web Apps
+  - CI/CD with GitHub Actions
+
 Latest project I worked on:
 [Touching Function](https://sites.uw.edu/crcs/projects/2022touching-and-playing-with-functions/)
 
