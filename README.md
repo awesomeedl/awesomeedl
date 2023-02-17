@@ -7,16 +7,21 @@
 ***
 
 - 🔭 I’m currently working on ...
-  - CI/CD w/ GitHub Actions
+  - Making cool simulations
   - My blog site
+  
 - 🌱 I’m currently learning ...
   - Blazor
   - Azure Functions
   - Azure Static Web Apps
+  - Javascript ESM modules 
   - CI/CD with GitHub Actions
+  
+- 📫 How to reach me: ...
+  - [Linkedin](https://www.linkedin.com/in/edwardliao125/)
 
 Latest project I worked on:
-[Touching Function](https://sites.uw.edu/crcs/projects/2022touching-and-playing-with-functions/)
+[Boids](https://github.com/awesomeedl/PIXI_boid)
 
 <!--
 **awesomeedl/awesomeedl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
