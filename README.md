@@ -17,7 +17,7 @@
   - Javascript ESM modules 
   - CI/CD with GitHub Actions
   
-- 📫 How to reach me: ...
+- 📫 How to reach me:
   - [Linkedin](https://www.linkedin.com/in/edwardliao125/)
 
 - ⚡Latest project I worked on:
