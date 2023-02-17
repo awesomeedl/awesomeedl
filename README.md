@@ -20,8 +20,8 @@
 - 📫 How to reach me: ...
   - [Linkedin](https://www.linkedin.com/in/edwardliao125/)
 
-Latest project I worked on:
-[Boids](https://github.com/awesomeedl/PIXI_boid)
+- ⚡Latest project I worked on:
+  - [Boids](https://github.com/awesomeedl/PIXI_boid)
 
 <!--
 **awesomeedl/awesomeedl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
