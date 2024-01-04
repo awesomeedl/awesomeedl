@@ -1,27 +1,8 @@
 ### Hi there 👋
 
-<h3 align="center">
->>> <a href='https://awesomeedl.github.io'>My Blog</a> <<<
-</h3>
+### [My Blog](https://awesomeedl.github.io)
 
-***
-
-- 🔭 I’m currently working on ...
-  - Making cool simulations
-  - My blog site
-  
-- 🌱 I’m currently learning ...
-  - Blazor
-  - Azure Functions
-  - Azure Static Web Apps
-  - Javascript ESM modules 
-  - CI/CD with GitHub Actions
-  
-- 📫 How to reach me:
-  - [Linkedin](https://www.linkedin.com/in/edwardliao125/)
-
-- ⚡Latest project I worked on:
-  - [Ecommerce](https://github.com/awesomeedl/Ecommerce/)
+How to reach me: [Linkedin](https://www.linkedin.com/in/edwardliao125/)
 
 <!--
 **awesomeedl/awesomeedl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
