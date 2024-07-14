@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I am Edward
 
+<!--
 ### [My Blog](https://awesomeedl.github.io)
+-->
 
 How to reach me: [Linkedin](https://www.linkedin.com/in/edwardliao125/)
 
